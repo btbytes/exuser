@@ -1,0 +1,5 @@
+*.pyc
+*~
+instance/settings.py
+test.db
+run.sh
